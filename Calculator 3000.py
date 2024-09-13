@@ -1,4 +1,5 @@
 print("Welcome to the Calculator 3000")
+print("Написано Низамиевым Тамирланом гр.533")
 
 while True:
 
