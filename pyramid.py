@@ -16,5 +16,6 @@ while True:
             y += 1
             sp -= 1
             print("")
-
+    print("_" * 100)
+    
     
